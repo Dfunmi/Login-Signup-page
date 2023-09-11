@@ -91,3 +91,8 @@ a {
   z-index: 9999; 
   cursor: pointer; 
 }
+@media(max-width: 600px) {
+  input, button{
+    width: 90%;
+  }
+}
